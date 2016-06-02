@@ -1,6 +1,7 @@
 body{
 	font-size: 12px;
 	font-family:'Microsoft Yahei', Calibri, Verdana, Helvetica, Arial, sans-serif;
+	font: "微软雅黑";
 }
 .tooltip{
 	position: absolute; 
